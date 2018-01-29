@@ -19,20 +19,20 @@
 					<string>display-image</string>
 					<key>url</key>
 					<!-- <string>https://raw.githubusercontent.com/wangbian6789/learngit/master/57.png</string> -->
-					<string>http://172.16.1.7/57.png</string>
+					<string>http://172.16.1.120/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
 					<!-- <string>https://raw.githubusercontent.com/wangbian6789/learngit/master/512.png</string> -->
-					<string>http://172.16.1.7/512.png</string>
+					<string>http://172.16.1.120/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.huoli.StarCoin1212121</string>
+				<string>com.huoli.StarCoin</string>
 				<key>bundle-version</key>
 				<string>3.8</string>
 				<key>kind</key>
