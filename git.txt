@@ -1,3 +1,0 @@
-Hello,git!   new word
-git is free software. new word.
-this is a new line.
