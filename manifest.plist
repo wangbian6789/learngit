@@ -14,20 +14,20 @@
 					<!-- <string>https://raw.githubusercontent.com/wangbian6789/learngit/master/starcoin.ipa</string> -->
 					<string>http://hlkj.tpddns.cn:8888/fai.ipa</string>
 				</dict>
-				<dict>
+				<!-- <dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/wangbian6789/learngit/master/57.png</string>
 					<!-- <string>http://172.16.1.120/57.png</string> -->
-				</dict>
-				<dict>
+				<!-- </dict> -->
+				<!-- <dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/wangbian6789/learngit/master/512.png</string>
 					<!-- <string>http://172.16.1.120/512.png</string> -->
-				</dict>
+				</dict> --> -->
 			</array>
 			<key>metadata</key>
 			<dict>
